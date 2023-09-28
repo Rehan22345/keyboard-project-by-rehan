@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}   
+body{
+    background: rgb(214, 214, 214);
+}
+.box{
+    margin: 200px;
+    max-width: 100%;
+    max-height: 100vh;
+    margin-left: 300px;
+}
+button{
+width: 39px;
+height: 38px;
+cursor: pointer;
+margin: 5px;
+border: none;
+border-radius: 10px;
+box-shadow: 5px 5px 10px #474343 , -5px -5px 10px #fff ;
+font-size: 15x;
+background: rgb(214, 214, 214);
+}
+.noob{
+    width: 69px;
+}
+.et{
+    width: 60px;
+}
+.slas{
+    width: 70px;
+}
+.cap{
+    width: 45px;
+}
+.s{
+    width: 105px;
+}
+.ctrl{
+width: 70px;
+}
+.win{
+    width: 70px;
+}
+.alt{
+    width: 70px;
+}
+.btn{
+width: 250px;
+}
